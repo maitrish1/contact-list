@@ -1,6 +1,5 @@
 .container{
     height: 650px;
-    background-image: url(./pexels-adrien-olichon-2387532.jpg);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -15,7 +14,7 @@
     margin-top: 75px;
 }
 .nav{
-    background-color: rgb(252, 144, 88);
+    background-color: rgb(91, 88, 252);
     height: 20px;
     color: white;
     position: sticky;
