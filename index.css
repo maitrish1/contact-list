@@ -1,0 +1,24 @@
+.container{
+    height: 650px;
+    background-image: url(./pexels-adrien-olichon-2387532.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+}
+.contacts-List{
+    height: 500px;
+    width: 300px;
+    background-color: #fefefe;
+    border: 1px transparent white;
+    overflow: scroll;
+    margin-top: 75px;
+}
+.nav{
+    background-color: rgb(252, 144, 88);
+    height: 20px;
+    color: white;
+    position: sticky;
+    top: 0px;
+    
+}
